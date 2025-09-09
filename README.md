@@ -1,9 +1,7 @@
 # Hydrological modeling: Monkey River watershed, Belize
 [![Update](https://img.shields.io/github/last-commit/bzgeo/bz_monkey_river_hydrological_modeling?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/bz_monkey_river_hydrological_modeling)
 
-[bit.ly/bz_hydro](https://bit.ly/bz_hydro)
-
-**Description**: *Files and links related to hydrological modeling of the Monkey River watershed in Belize*
+**Description**: *Files and links related to hydrological modeling of the Monkey River watershed in Belize* | [bit.ly/bz_hydro](https://bit.ly/bz_hydro)
 
 **Workshop [agenda](https://docs.google.com/document/d/1tLAI79wB3mt5phLMQgXYLCnv0hGTdHAUnG4LiGdU5H0/edit?tab=t.0)**
 
