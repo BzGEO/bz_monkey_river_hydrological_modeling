@@ -3,7 +3,7 @@
 
 **Description**: *Files and links related to hydrological modeling of the Monkey River watershed in Belize* | [bit.ly/bz_hydro](https://bit.ly/bz_hydro)
 
-**Workshop [agenda](https://docs.google.com/document/d/1tLAI79wB3mt5phLMQgXYLCnv0hGTdHAUnG4LiGdU5H0/edit?tab=t.0)**
+**Workshop [agenda](https://docs.google.com/document/d/1tLAI79wB3mt5phLMQgXYLCnv0hGTdHAUnG4LiGdU5H0/edit?tab=t.0)** (09.09.2025)
 
 ![](https://github.com/BzGEO/bz_monkey_river_hydrological_modeling/blob/main/_graphics/workshop_agenda_2025-09-09a.png)
 
