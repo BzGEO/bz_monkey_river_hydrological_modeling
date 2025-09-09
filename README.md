@@ -18,4 +18,8 @@
 
 ## Hydrological modeling using the Soil & Water Assessment Tool (SWAT)
 
-QSWAT plugin: https://swat.tamu.edu/software/qswat/
+* Download SWAT Check: https://swat.tamu.edu/media/4cwbo1wf/swatcheck-standalone-201.zip (more [info](https://swat.tamu.edu/software/swat-check/))
+* Download Belize River watershed SWAT outputs: [uncalibrated]() and [calibrated](), the latter from [Copeland et al. (2025)](https://www.mdpi.com/2073-4441/17/13/1915)
+* QSWAT plugin: https://swat.tamu.edu/software/qswat/
+
+![]()
