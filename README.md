@@ -23,6 +23,7 @@
 * ArcSWAT plugins: https://swat.tamu.edu/software/arcswat/
 * QSWAT plugins: https://swat.tamu.edu/software/qswat/
 * SWAT global + other data: https://swat.tamu.edu/data/
+* SWAT website: https://swat.tamu.edu/
 
 ![](https://github.com/BzGEO/bz_monkey_river_hydrological_modeling/blob/main/_graphics/swatcheck_bzr_erosion.png)
 ![](https://github.com/BzGEO/bz_monkey_river_hydrological_modeling/blob/main/_graphics/swatcheck_bzr_hydro.png)
