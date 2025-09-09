@@ -14,7 +14,7 @@
 4. See the QNSPECT Technical Guide (Eslinger et al., 2022): https://coast.noaa.gov/data/digitalcoast/pdf/qnspect-technical-guide.pdf.
 5. There is an overview article of the QNSPECT plugin: https://ar-siddiqui.medium.com/introducing-qnspect-76f4dc8e0fed. There is also a defunct NOAA tutorial for QNSPECT: https://coast.noaa.gov/digitalcoast/training/qnspect.html.
 
-![](https://github.com/BzGEO/bz_monkey_river_hydrological_modeling/blob/main/_graphics/workflow_rusle.png)
+![](https://github.com/BzGEO/bz_monkey_river_hydrological_modeling/blob/main/_graphics/workflow_rusle_new2.png)
 
 ## Hydrological modeling using the Soil & Water Assessment Tool (SWAT)
 
