@@ -7,6 +7,17 @@
 
 ![](https://github.com/BzGEO/bz_monkey_river_hydrological_modeling/blob/main/_graphics/workshop_agenda_2025-09-09a.png)
 
+## Satellite-based water quality monitoring
+
+* NASA [EOSDIS WorldView](https://worldview.earthdata.nasa.gov/) -> *visualization*
+* NASA [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/) -> *time series analysis*
+* NASA [EarthData Search](https://search.earthdata.nasa.gov/search) -> *data extraction / download*
+* NASA [OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/) -> *data extraction / download*
+* Mini *Optical Reef and Coastal Area Assessment* (ORCAA) GEE script for Monkey River (modified from [Dr. Ileana Callejas](https://github.com/iacallejas)' original script): https://code.earthengine.google.com/19cdb373a4cfddd24b9194f989484990
+* Mini ORCAA tutorial video from [Dr. Ileana Callejas](https://github.com/iacallejas): https://www.youtube.com/watch?v=LlswUBCMRqI
+* Global WQ Monitor: https://watersensing-water-quality-monitoring-pro.hf.space/voila/render/Global-RSWQmonitor.ipynb
+* Mesoamerica forest cover viewer app: https://bzgeo.users.earthengine.app/view/mes-fcover-landsat (also see: https://github.com/BzGEO/forest_cover_change)
+
 ## Hydrological modeling using the Non-point Source Pollution & Erosion Comparison Tool for QGIS (QNSPECT)
 1. Download QGIS (e.g., version 3.40 LTR): https://qgis.org/download/
 2. Download the QNSPECT plugin: https://plugins.qgis.org/plugins/QNSPECT/version/1.0/download/. (Also see the plugin page: https://plugins.qgis.org/plugins/QNSPECT/.)
